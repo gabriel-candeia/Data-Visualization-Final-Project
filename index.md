@@ -28,7 +28,6 @@ O gráfico abaixo ilustra os fluxos migratórios por onde transitaram o maior n�
 <iframe width="800" height="1278" frameborder="0"
   src="https://observablehq.com/embed/eace1805c5861ed4?cells=viewof+top%2Cviewof+year1%2Csvg"></iframe>
 </p>
-""
 
 ## Referências
 - [United Nations, Department of Economic and Social Affairs, Population Division (2020). International
