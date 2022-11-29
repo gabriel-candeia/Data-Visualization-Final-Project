@@ -18,7 +18,7 @@ pela ONU entre os anos 1990 e 2020.
 ## Pirâmide Etária
 O gráfico abaixo ilustra a distribuição da população de imigrantes por sexo e idade para o país e ano selecionados.
 <p align="center" id="piramide">
-<iframe width="600" height="864" frameborder="0"
+<iframe width="600" height="664" frameborder="0"
   src="https://observablehq.com/embed/43865cdc235e0935?cells=viewof+year1%2Cviewof+dd1%2Clegenda%2Cview"></iframe>
 </p>
 
