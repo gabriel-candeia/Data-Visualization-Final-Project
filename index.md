@@ -17,14 +17,14 @@ pela ONU entre os anos 1990 e 2020.
 
 ## Pirâmide Etária
 O gráfico abaixo ilustra a distribuição da população de imigrantes por sexo e idade para o país e ano selecionados.
-<p align="center">
+<p align="center" id="piramide">
 <iframe width="600" height="864" frameborder="0"
   src="https://observablehq.com/embed/43865cdc235e0935?cells=viewof+year1%2Cviewof+dd1%2Clegenda%2Cview"></iframe>
 </p>
 
 ## Maiores fluxos
 O gráfico abaixo ilustra os fluxos migratórios por onde transitaram o maior número de migrantes durante o ano selecionado.
-<p align="center">
+<p align="center" id = "flow">
 <iframe width="800" height="1278" frameborder="0"
   src="https://observablehq.com/embed/eace1805c5861ed4?cells=viewof+top%2Cviewof+year1%2Csvg"></iframe>
 </p>
