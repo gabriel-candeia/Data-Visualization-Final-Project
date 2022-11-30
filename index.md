@@ -25,7 +25,7 @@ O gráfico abaixo ilustra a distribuição da população de imigrantes por sexo
 ## Maiores fluxos
 O gráfico abaixo ilustra os fluxos migratórios por onde transitaram o maior número de migrantes durante o ano selecionado.
 <p align="center" id = "flow">
-<iframe width="800" height="1278" frameborder="0"
+<iframe width="610" height="1278" frameborder="0"
   src="https://observablehq.com/embed/eace1805c5861ed4?cells=viewof+top%2Cviewof+year1%2Csvg"></iframe>
 </p>
 
